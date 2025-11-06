@@ -9,7 +9,6 @@
 
 ## 💬 Overview
 - 🎯 My core research focuses on **advanced materials** and **mechanical design**, with a goal of bridging this expertise with **Artificial Intelligence** (Computer Vision).
-- 🌱 I am actively seeking faculty positions in the United States to establish my future research lab.
 
 ---
 
