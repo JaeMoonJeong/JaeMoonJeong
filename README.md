@@ -10,6 +10,10 @@
 
 ---
 
+## 📊 My WakaTime Stats
+Stats loading...
+---
+
 ## 🛠️ My GitHub Stats
 
 <p>
