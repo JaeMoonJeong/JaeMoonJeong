@@ -18,7 +18,7 @@ Stats loading...
 
 <p>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&theme=transparent&title_color=333&text_color=555&icon_color=444" alt="JaeMoonJeong's GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&theme=dracula&title_color=fff&text_color=fff&icon_color=fff" alt="JaeMoonJeong's GitHub Stats">
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&theme=transparent&title_color=333&text_color=555" alt="JaeMoonJeong's Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&theme=dracula&title_color=fff&text_color=fff" alt="JaeMoonJeong's Top Languages">
 </p>
