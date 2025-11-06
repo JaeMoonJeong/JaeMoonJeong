@@ -1,18 +1,15 @@
-# Hi there 👋
+# Jae-Moon Jeong, Ph.D.
+### Mechanical Engineering (KAIST) | Research Affiliate (MIT)
 
 [![Github Badge](https://img.shields.io/badge/-JaeMoonJeong-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JaeMoonJeong/)](https://www.github.com/JaeMoonJeong/)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaemoon-jeong/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-jaemoon.jeong@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jaemoon.jeong@gmail.com)](mailto:jaemoon.jeong@gmail.com)&nbsp;
-[![Homepage Badge](https://img.shields.io/badge/My%20Homepage-orange?style=flat&logo=website&logoColor=white&link=https://jaemoonjeong.github.io/jae-moon/)](https://jaemoonjeong.github.io/jae-moon/)&nbsp;
+[![Homepage Badge](https://img.shields.io/badge/My%20Homepage-orange?style=flat&logo=website&logoColor=white&link=https://jaemoonjeong.github.io/jae-moon/)](https://jaemoon.jeong.github.io/jae-moon/)&nbsp;
 
-## 💬 About me
-- 🔭 I am a Mechanical Engineering Researcher.
-- 🌱 I am an expert in mechanical design and advanced materials, currently preparing to expand my research into the field of AI.
+## 💬 Overview
+- 🎯 My core research focuses on **advanced materials** and **mechanical design**, with a goal of bridging this expertise with **Artificial Intelligence** (Computer Vision).
+- 🌱 I am actively seeking faculty positions in the United States to establish my future research lab.
 
----
-
-## 📊 My WakaTime Stats
-Stats loading...
 ---
 
 ## 🛠️ My Tech Stack & Expertise
@@ -28,11 +25,21 @@ Stats loading...
 ![Static Badge](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-## 🛠️ My GitHub Stats
+---
 
+## 🛠️ My GitHub Stats
 <p>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="JaeMoonJeong's GitHub Stats">
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="JaeMoonJeong's Top Languages">
 </p>
+
+---
+
+## 📊 My WakaTime Stats
+(Stats will automatically load here once the Action runs)
+---
+
+## 🎖️ Algorithm Ranking (Solved.ac)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID_HERE)](https://solved.ac/YOUR_BOJ_ID_HERE)
