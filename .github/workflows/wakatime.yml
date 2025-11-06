@@ -1,0 +1,28 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # 수동으로 실행 가능하게 함
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정(UTC)에 자동으로 실행
+
+jobs:
+  update-readme:
+    name: Update Readme with Waka Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anuraghazra/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_TOTAL: "true"
+          SHOW_MASKED_TIME: "false"
+          # ➡️ 여기서부터가 'Work Stats' (요일/시간) 통계입니다.
+          SHOW_LINES_OF_CODE: "false" 
+          SHOW_PROFILE_VIEWS: "false" 
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "false" 
+          SHOW_OS: "false"
