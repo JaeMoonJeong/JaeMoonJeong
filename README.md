@@ -8,19 +8,19 @@
 [![Homepage Badge](https://img.shields.io/badge/My%20Homepage-orange?style=flat&logo=website&logoColor=white&link=https://jaemoonjeong.github.io/jae-moon/)](https://jaemoonjeong.github.io/jae-moon/)&nbsp;
 
 ## 💬 Overview
-- 🎯 My core research focuses on **advanced materials** and **mechanical design**, with a goal of bridging this expertise with **Artificial Intelligence** (Computer Vision).
+> 🎯 My core research focuses on **advanced materials** and **mechanical design**, with a goal of bridging this expertise with **Artificial Intelligence** (Computer Vision).
 
 ---
 
 ## 🛠️ My Tech Stack & Expertise
 
 ### Core Research
-![Static Badge](https://img.shields.io/badge/Mechanical%20Design-blue)
+>![Static Badge](https://img.shields.io/badge/Mechanical%20Design-blue)
 ![Static Badge](https://img.shields.io/badge/Advanced%20Materials-blue)
 ![Static Badge](https://img.shields.io/badge/Composites-blue)
 ![Static Badge](https://img.shields.io/badge/FEM%20(Simulation)-blue) 
 ### Programming & AI
-![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+>![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
