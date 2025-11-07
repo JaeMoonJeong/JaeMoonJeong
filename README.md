@@ -1,6 +1,6 @@
 # Jae-Moon Jeong, Ph.D.
 
-***Mechanical Engineering (KAIST) | Research Affiliate (MIT)**
+***Mechanical Engineering (KAIST) | Research Affiliate (MIT)***
 
 > [![Github Badge](https://img.shields.io/badge/-JaeMoonJeong-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JaeMoonJeong/)](https://www.github.com/JaeMoonJeong/)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaemoon-jeong/)&nbsp;
