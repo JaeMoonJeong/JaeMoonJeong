@@ -14,7 +14,8 @@
 
 ## 🛠️ My Tech Stack & Expertise
 
-### Core Research ![Static Badge](https://img.shields.io/badge/Mechanical%20Design-blue)![Static Badge](https://img.shields.io/badge/Advanced%20Materials-blue)![Static Badge](https://img.shields.io/badge/Composites-blue)![Static Badge](https://img.shields.io/badge/FEM%20(Simulation)-blue) 
+### Core Research 
+> ![Static Badge](https://img.shields.io/badge/Mechanical%20Design-blue)![Static Badge](https://img.shields.io/badge/Advanced%20Materials-blue)![Static Badge](https://img.shields.io/badge/Composites-blue)![Static Badge](https://img.shields.io/badge/FEM%20(Simulation)-blue) 
 ### Programming & AI
 >![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
