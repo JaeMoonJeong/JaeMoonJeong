@@ -12,8 +12,8 @@ jobs:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: athul/waka-readme@v2 # 'uses'는 'steps' 아래에 두 칸 들여쓰기
+      - uses: actions/checkout@v0.3.1
+      - uses: athul/waka-readme@v0.3.1 # 'uses'는 'steps' 아래에 두 칸 들여쓰기
         with:                     # ⬅️ 'with'는 'uses'와 같은 레벨에 있어야 합니다.
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: "true"
