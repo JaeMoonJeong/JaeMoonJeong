@@ -1,20 +1,23 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # 수동으로 실행 버튼을 누를 수 있게 함
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # 매일 자정(UTC 기준)에 자동 실행
 
 jobs:
   update-readme:
     permissions:
-      contents: write # ⬅️ 'permissions'는 'update-readme' 아래에 두 칸 들여쓰기
+      contents: write
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v0.3.1
-      - uses: athul/waka-readme@v0.3.1 # 'uses'는 'steps' 아래에 두 칸 들여쓰기
-        with:                     # ⬅️ 'with'는 'uses'와 같은 레벨에 있어야 합니다.
+      # 1. 저장소 체크아웃 (GitHub 공식 액션은 v4가 최신 표준입니다)
+      - uses: actions/checkout@v4
+
+      # 2. WakaTime 리드미 업데이트 (확인한 v0.3.1 버전 적용)
+      - uses: athul/waka-readme@v0.3.1
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: "true"
           SHOW_TIMEZONE: "true"
@@ -22,7 +25,7 @@ jobs:
           SHOW_MASKED_TIME: "false"
           SHOW_LINES_OF_CODE: "false"
           SHOW_PROFILE_VIEWS: "false"
-          SHOW_COMMIT: "true" # ⚠️ 기존 파일에 'SHOW_COMMIT'이 누락되어 있어서 추가했습니다.
+          SHOW_COMMIT: "true"
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
           SHOW_EDITORS: "false"
