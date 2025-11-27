@@ -38,7 +38,8 @@
 ---
 
 ## 📊 My WakaTime Stats
-(Stats will automatically load here once the Action runs)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🎖️ Algorithm Ranking (Solved.ac)
