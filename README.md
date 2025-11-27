@@ -39,6 +39,15 @@
 
 ## 📊 My WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 November 2025 - To: 26 November 2025
+
+Total Time: 1 min
+
+Markdown   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
