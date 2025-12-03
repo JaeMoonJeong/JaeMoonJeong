@@ -28,13 +28,10 @@
 ---
 
 ## 🛠️ My GitHub Stats
-<p>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="JaeMoonJeong's GitHub Stats">
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="JaeMoonJeong's Top Languages">
-</p>
 
+![JaeMoonJeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=904e95&title_color=fff&text_color=fff&icon_color=fff) 
+
+![JaeMoonJeong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&bg_color=904e95&title_color=fff&text_color=fff)
 ---
 
 ## 📊 My WakaTime Stats
