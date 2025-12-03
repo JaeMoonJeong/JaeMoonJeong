@@ -29,12 +29,9 @@
 
 ## 🛠️ My GitHub Stats
 
-![JaeMoonJeong's GitHub Stats](https://github-readme-stats-tlvid-49.vercel.app/api?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=904e95&title_color=fff&text_color=fff&icon_color=fff)
-![JaeMoonJeong's Top Languages](https://github-readme-stats-tlvid-49.vercel.app/api/top-langs/?username=JaeMoonJeong&layout=compact&bg_color=904e95&title_color=fff&text_color=fff)
+![JaeMoonJeong's GitHub Stats](https://github-readme-stats-git-master-jaemoonjeongs-projects.vercel.app?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=904e95&title_color=fff&text_color=fff&icon_color=fff) 
+![JaeMoonJeong's Top Languages](https://github-readme-stats-git-master-jaemoonjeongs-projects.vercel.app/top-langs/?username=JaeMoonJeong&layout=compact&bg_color=904e95&title_color=fff&text_color=fff) 
 
-![JaeMoonJeong's GitHub Stats](https://github-readme-stats-tlvid-49.vercel.app?username=JaeMoonJeong&show_icons=true&include_all_commits=true&bg_color=904e95&title_color=fff&text_color=fff&icon_color=fff)
-
-![Test Stats](https://github-readme-stats-tlvid-49.vercel.app/api?username=JaeMoonJeong)
 ---
 
 ## 📊 My WakaTime Stats
