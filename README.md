@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Total Time: 1 hr 35 mins
+Total Time: 2 hrs 39 mins
 
-Python       45 mins         ███████████▓░░░░░░░░░░░░░   47.23 %
-HTML         28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-CSV          20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTML         1 hr 32 mins    ██████████████▒░░░░░░░░░░   57.84 %
+Python       45 mins         ███████░░░░░░░░░░░░░░░░░░   28.50 %
+CSV          20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
