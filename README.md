@@ -38,13 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Total Time: 8 mins
+Total Time: 0 secs
 
-Python   6 mins          █████████████████▓░░░░░░░   70.08 %
-HTML     2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
