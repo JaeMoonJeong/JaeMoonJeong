@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 2 hrs 9 mins
+Total Time: 1 hr 55 mins
 
-Other      11 hrs 21 mins  █████████████████████░░░░   84.01 %
-Python     1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Markdown   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      12 hrs 40 mins  █████████████████████▓░░░   86.82 %
+Python     1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
