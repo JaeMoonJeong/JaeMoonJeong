@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
 Total Time: 4 hrs 39 mins
 
-Other             14 hrs 1 min    ██████████████████▓░░░░░░   75.05 %
-Python            4 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Graphviz (DOT)    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Tera Term macro   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other             16 hrs 20 mins  ███████████████████▒░░░░░   77.79 %
+Python            4 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+Graphviz (DOT)    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Tera Term macro   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
